@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/mceme/proposal-generator#readme",
   "devDependencies": {
-    "mceme/imagecoin-lib": "^0.16.8",
+    "imagecoin-lib": "mceme/imagecoin-lib",
     "browserify": "^16.2.3",
     "eslint": "^5.13.0"
   }
