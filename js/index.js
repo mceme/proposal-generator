@@ -1,9 +1,9 @@
-var Bitcore = require('@dashevo/dashcore-lib');
+var Bitcore = require('@mceme/imagecoin-lib');
 
 var socket;
 var paymentCycle;
 
-var mainnetProvider = 'https://insight.dashevo.org';
+var mainnetProvider = 'http://23.101.61.34:3003';
 var mainnetPrefix = '/insight-api';
 
 var testnetProvider = 'https://testnet-insight.dashevo.org';
